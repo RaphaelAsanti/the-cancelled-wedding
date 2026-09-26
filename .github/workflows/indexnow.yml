@@ -16,5 +16,3 @@ jobs:
         env:
           INDEXNOW_KEY: ${{ secrets.INDEXNOW_KEY }}
         run: bash indexnow.sh
-
-indexnow.sh
